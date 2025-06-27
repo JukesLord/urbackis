@@ -1,4 +1,4 @@
-/* <script src="https://api.mapbox.com/mapbox-gl-js/v3.12.0/mapbox-gl.js"></script> */
+/* 
 
 var link = document.createElement("link");
 link.rel = "stylesheet";
@@ -140,3 +140,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		}
 	});
 });
+
+ */
+
+console.log("ahoj");
